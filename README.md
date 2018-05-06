@@ -15,4 +15,5 @@ The whole idea and principle is understood, the problem is with misundertanding 
 **\*.ttt** contains the whole scene with model and scripts. To open this scene you can use any of V-REP simulators (Player, Pro EDU, PRO). Also, I pinned images of done work
 
 ## Video Demo
-[YouTube video demonstration](https://youtu.be/e8SMatxq9mg)
+Updated video
+[YouTube video demonstration](https://youtu.be/cYTfVM14_X4)
